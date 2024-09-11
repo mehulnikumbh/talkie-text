@@ -4,9 +4,6 @@
 Submitted as Third Year Mini Project 2B
 
 
-### **by:**
-
-
 |**NAME**|**ROLL NO.**|
 | :-: | :-: |
 |Ruchita Dolas|15|
@@ -51,46 +48,7 @@ Dr. Rajani Mangala
 
 ### `  `**Supervisor/Guide**
 
-
-
-
-
-
-
-Mrs. Kavita Tewari	Name & Sign
-
-**Head of Department, Electronics Engineering	Principal**
-
-
-
-## **PROJECT REPORT APPROVAL**
-
-
-
-
-
 This project report is entitled “**Talkie Text: Text to Speech**” by **Atharva Bhaindarkar (52)**, **Ruchita Dolas (15)**, **Aditi Mishra (29)** and **Mehul Nikumbh (33)**, is approved as Third Year mini project 2B during the academic year **2022- 2023**.
-
-
-
-
-
-
-
-## **Examiners**
-
-
-
-### **1.**
-
-
-
-
-
-**2.**
-
-
-
 
 ## **DECLARATION**
 
@@ -98,25 +56,6 @@ This project report is entitled “**Talkie Text: Text to Speech**” by **Athar
 
 
 We declare that this written submission represents our ideas in our own words and where others' ideas or words have been included, we have adequately cited and referenced the original sources. We also declare that we have adhered to all principles of academic honesty and integrity and have not misrepresented or fabricated or falsified any idea/data/fact/source in our submission. We understand that any violation of the above will be cause for disciplinary action by the institute and can also evoke penal action from the sources which have thus not been properly cited or from whom proper permission has not been taken when needed.
-
-
-
-
-Signature                                                                         Signature
-### ` `**Ruchita Dolas (15)                                                         Aditi Mishra (29)**
-
-
-
-
-Signature                                                                           Signature
-### **Mehul Nikumbh (33)                                                     Atharva Bhaindarkar (52)**
-
-
-
-Date:
-
-
-
 
 
 
